@@ -3,10 +3,10 @@
 
 ### You can choose your favourite search engines. 
   #### Available search engine options: 
-        Google 
-        Amazone 
-        Youtube 
-        DuckDuckGO
+      1. Google 
+      2. Amazone 
+      3. Youtube 
+      4. DuckDuckGO
 
 ## modules used
 1. tkinter 

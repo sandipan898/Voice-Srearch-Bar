@@ -26,7 +26,7 @@ this is a *Search bar application* that can search things on internet by *recogn
       source env/bin/activate
 * Then install the dependencies by the command:
 
-      pip install requirements.txt
+      pip install -r requirements.txt
 * Then run the python file by the command:
 
       python voice_search.py

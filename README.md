@@ -20,16 +20,14 @@ this is a *Search bar application* that can search things on internet by *recogn
 * SpeechRecognition.
 
 ## How to use:
-Clone the repository
+* Clone the repository
+* activate the virtual environment by the command:
 
-activate the virtual environment by the command:
+      source env/bin/activate
+* Then install the dependencies by the command:
 
-    source env/bin/activate
+      pip install requirements.txt
+* Then run the python file by the command:
 
-Then install the dependencies by the command:
+      python voice_search.py
 
-    pip install requirements.txt
-
-Then run the python file by the command:
-
-    python voice_search.py
